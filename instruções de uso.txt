@@ -1,0 +1,12 @@
+📌 Gerador de QR Code com Título
+------------------------------
+
+1. Extraia a pasta ZIP.
+2. Clique duas vezes em: title-qrcode-generator.exe
+3. Escolha a pasta com os QR Codes.
+4. Escolha onde salvar.
+5. Clique em “Iniciar Processamento”.
+
+🚨 Dica: Se o Windows perguntar, clique em "Mais informações" > "Executar mesmo assim".
+
+Desenvolvido por Deivid Borges
