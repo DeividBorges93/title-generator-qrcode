@@ -37,7 +37,7 @@ O app vai transformar essas imagens em:
 
 ## 🖥️ Como usar o aplicativo (usuários finais)
 
-1. Faça o download do arquivo [`title-qrcode-generator.exe`](link-para-o-exe) *(adicione o link real aqui após subir)*
+1. Faça o download do arquivo [`title-qrcode-generator.exe`](https://github.com/DeividBorges93/title-generator-qrcode/blob/main/title-qrcode-generator.exe)
 2. Extraia o `.zip` (se estiver compactado)
 3. Clique duas vezes em `title-qrcode-generator.exe`
 4. Selecione:
